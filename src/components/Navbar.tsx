@@ -64,7 +64,7 @@ const Navbar = () => {
             }}
             className="text-xl md:text-2xl font-bold gradient-hero bg-clip-text text-transparent hover:opacity-80 transition-smooth"
           >
-            JD.
+            
           </a>
 
           {/* Desktop Navigation */}

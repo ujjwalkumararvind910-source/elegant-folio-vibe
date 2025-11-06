@@ -25,7 +25,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h3 className="text-2xl font-bold gradient-hero bg-clip-text text-transparent mb-4">
-              JD.
+              
             </h3>
             <p className="text-muted-foreground text-sm">
               Full Stack Developer passionate about building exceptional digital experiences.
@@ -57,9 +57,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-sm text-muted-foreground">
-              <p>San Francisco, CA</p>
-              <p>john.doe@example.com</p>
-              <p>+1 (555) 123-4567</p>
+              <p>New Delhi </p>
+              <p>ujjwal.kumararvind910@gmail.com</p>
+              <p>91+ 8368327428</p>
             </div>
           </div>
         </div>
@@ -68,7 +68,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © {currentYear} John Doe. All rights reserved.
+              © {currentYear} Ujjwal. All rights reserved.
             </p>
             <p className="text-sm text-muted-foreground flex items-center gap-1">
               Made with <Heart className="w-4 h-4 text-red-500 fill-current" /> using React & Tailwind CSS

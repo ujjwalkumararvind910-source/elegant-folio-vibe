@@ -48,20 +48,20 @@ const Contact = () => {
   const contactInfo = [
     {
       icon: Mail,
-      title: 'Email',
-      value: 'john.doe@example.com',
-      href: 'mailto:john.doe@example.com',
+      title: 'Gmail',
+      value: 'ujjwal.kumararvind910@gmail.com',
+      href: 'mailto:ujjwal.kumararvind910@gmail.com',
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
+      value: '91+ 8368327428',
       href: 'tel:+15551234567',
     },
     {
       icon: MapPin,
       title: 'Location',
-      value: 'San Francisco, CA',
+      value: 'New Delhi',
       href: '#',
     },
   ];

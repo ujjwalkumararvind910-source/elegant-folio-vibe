@@ -98,8 +98,8 @@ const About = () => {
                 <div className="space-y-4">
                   <div>
                     <h4 className="font-semibold text-lg">Bachelor of Computer Science</h4>
-                    <p className="text-muted-foreground">University of Technology</p>
-                    <p className="text-sm text-muted-foreground">2015 - 2019</p>
+                    <p className="text-muted-foreground">Maharaja Agrasen Institute of Technology</p>
+                    <p className="text-sm text-muted-foreground">2023 - 2027</p>
                   </div>
                   <div>
                     <h4 className="font-semibold text-lg">Certifications</h4>
@@ -124,12 +124,12 @@ const About = () => {
                   <div>
                     <h4 className="font-semibold text-lg">Senior Full Stack Developer</h4>
                     <p className="text-muted-foreground">TechCorp Inc.</p>
-                    <p className="text-sm text-muted-foreground">2021 - Present</p>
+                    <p className="text-sm text-muted-foreground">2025 - Present</p>
                   </div>
                   <div>
                     <h4 className="font-semibold text-lg">Full Stack Developer</h4>
                     <p className="text-muted-foreground">StartupXYZ</p>
-                    <p className="text-sm text-muted-foreground">2019 - 2021</p>
+                    <p className="text-sm text-muted-foreground">2023 - 2027</p>
                   </div>
                 </div>
               </div>
